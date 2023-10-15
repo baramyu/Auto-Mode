@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 8211c9eb4a3ae174a883e8fbb4fad27d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - talkImage: {fileID: 21300000, guid: ab1f0ef5fcbf06e4aa862598f7084297, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
